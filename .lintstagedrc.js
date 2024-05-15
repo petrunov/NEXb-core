@@ -5,8 +5,6 @@ const еslintCommand = (filenames) =>
     .map((f) => path.relative(process.cwd(), f))
     .join(' --file ')}`;
 
-const formatCommand = 'prettier --write';
-
 module.exports = {
-  '*.{js,jsx,ts,tsx}': [formatCommand, еslintCommand],
+  '*.{js,jsx,ts,tsx}': [еslintCommand],
 };

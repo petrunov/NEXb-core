@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "yarn prettier --write && yarn lint:fix && next build",
     "start": "next start",
     "lint:styles": "npx stylelint '**/*.css'",
     "lint": "next lint && yarn lint:styles",
