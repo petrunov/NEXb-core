@@ -2,7 +2,7 @@
 
 This is a NEXbase Core - an opinionated starter kit / boilerplate for starting a new NextJS project from scratch.
 It's licensed under MIT license so it is fully open sourced.
-Feel free to fork and contribute.
+Feel free to fork and contribute. Your feedback and contributions are welcome!
 
 ## What does it give you?
 
