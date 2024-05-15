@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.center}>
-        <h1 className={styles.logo}>NEXBase v 0.1.0</h1>
+        <h1 className={styles.logo}>NEXBase Core v 0.1.0</h1>
       </div>
     </main>
   );
