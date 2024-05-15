@@ -1,8 +1,30 @@
 ## What is this?
 
-This is a NEXbase Core starter kit / boilerplate for starting a new NextJS project from scratch.
+This is a NEXbase Core - an opinionated starter kit / boilerplate for starting a new NextJS project from scratch.
 It's licensed under MIT license so it is fully open sourced.
 Feel free to fork and contribute.
+
+## What does it give you?
+
+Always up to date NextJS application with configured:
+
+- TypeScript
+- Prettier
+- ESLint
+- StyleLint
+- Lint-staged
+- Husky
+
+### Pre-configured commands
+
+- yarn dev
+- yarn build
+- yarn start
+- yarn lint:styles
+- yarn lint
+- yarn lint:fix
+- yarn prettier
+- yarn prepare
 
 ## Installation
 
